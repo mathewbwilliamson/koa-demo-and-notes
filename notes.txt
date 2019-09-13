@@ -1,0 +1,10 @@
+-Smaller footprint than any other Node.js framework
+-Thinner and better middleware
+-Built on ES6+ and promotes modern work like generators and async/await
+-Koa uses a req and res object on top of the standard vanilla jS req and res
+-Encapsulates req/res into a single object using context. This helps devs build APIs more efficiently.
+-Common KOA Modules
+    -Koa Router
+    -Koa EJS Templating
+    -Koa Body Parser
+-
